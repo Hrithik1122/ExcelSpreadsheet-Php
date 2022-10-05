@@ -1,1 +1,1 @@
-<p><b>👉 Extract the vendor.zip folder</b></p>
+<p><b>👉 Extract the <i>vendor.zip</i> folder</b></p>
